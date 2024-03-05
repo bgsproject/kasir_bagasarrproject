@@ -1,0 +1,10 @@
+Admin 
+user : admin
+pass : adimin
+
+petugas 
+user : petugas
+pass : petugas
+
+Harap dibaca sebelum login agar tidak salah memasukan
+user ataupun password
